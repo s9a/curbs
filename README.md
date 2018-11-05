@@ -11,7 +11,7 @@ SF neighborhood name curves
 
 ### Curvers wanted.
 
-[:moon: propose curve](../../issues)
+[:moon: propose curve](../../issues/new)
 
 ### Curbs so far
 - Feelmore
