@@ -14,5 +14,5 @@ SF neighborhood name curves
 [:moon: propose curve](../../issues/new)
 
 ### Curbs so far
-- Feelmore
-- Western Addiction
+- [Feelmore](../../issues/4)
+- [Western Addiction](../../issues/3)
