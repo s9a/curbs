@@ -15,4 +15,5 @@ SF neighborhood name curves
 
 ### Curbs so far
 - [Feelmore](../../issues/4)
+- [LOH8](../../issues/7)
 - [Western Addiction](../../issues/3)
